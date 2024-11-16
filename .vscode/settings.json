@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c9f19a68-3099-4c5f-876e-4d3dfdc55073/resourceGroups/NewCommunityPlatform_group/providers/Microsoft.Web/sites/CommunityPlatform",
+    "appService.deploySubpath": "Frontend"
+}
